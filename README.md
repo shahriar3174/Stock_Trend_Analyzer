@@ -1,6 +1,7 @@
 # 📈 Stock Trend Analyzer
 
 An interactive stock analysis dashboard built with Streamlit. Enter any ticker, explore historical prices with technical indicators, run Monte Carlo simulations, and get a Prophet-based forecast — all in the browser.
+[Link Text](https://stock-trendanalyzer.streamlit.app/)
 
 ---
 
